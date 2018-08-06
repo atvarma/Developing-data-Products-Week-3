@@ -1,7 +1,7 @@
 ---
 title: "Road Accidents in Great Britain from 2005 to 2015"
-author: "Sébastien Pujadas"
-date: "11th February 2017"
+author: "Aditi Varma"
+date: "6th August 2018"
 output: ioslides_presentation
 ---
 
@@ -124,7 +124,7 @@ plot_ly(accident_count) %>%
 
 ### Source code
 
-- The R Markdown source code of this presentation can be found in [this GitHub repository](https://github.com/spujadas/coursera-ddp-plotly).
+- The R Markdown source code of this presentation can be found in [this GitHub repository](https://github.com/atvarma/Developing-data-Products-Week-3).
 
 ### Data source and licence
 
